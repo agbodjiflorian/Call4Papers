@@ -1,0 +1,33 @@
+
+Les répercussions de la pandémie de Covid-19 au niveau de la sécurité informatique.
+Par Florian AGBODJI.
+
+Le monde traverse actuellement une crise sanitaire, celle du coronavirus (covid-19).
+Face à la pandémie du coronavirus, les utilisateurs d’outils numériques aussi bien que les responsables de la sécurité de l'information doivent équilibrer deux priorités pour répondre à la pandémie. Ils doivent se protéger contre les nouvelles cybermenaces et maintenir la continuité des activités. 
+Pour atténuer les impacts de cette crise, plusieurs services numériques sont utilisés. Ce qui entraine une mise en jeu de la sécurité informatique. Entre autres services, nous pouvons citer : la mise en pratique du Télétravail / Education à distance et aussi l’utilisation de Logiciels ou Sites web malveillants.
+
+-	Télétravail / Education à distance
+La propagation du coronavirus et les mesures de confinement ont obligé certaines écoles, les entreprises publiques et privées et l’administration à mettre leurs employés en télétravail. Cette mesure exerce une pression imprévue sur toutes sortes de technologies réseau et pose de nombreux problèmes et plusieurs défis de sécurité.
+Le nombre d’utilisateurs d’application de visioconférence ayant largement augmenté, une série d’incidents fait depuis peu les titres des journaux.
+Par exemple, Berkeley High School en Californie a fait les frais d’une intrusion malveillante. En effet, un homme nu vociférant des insultes racistes s’est introduit sur un meeting protégé par un mot de passe. Aussi, à Hong Kong, des écoles (St Stephen's Girls' College et Christian Alliance International School) ont vu des invités-surprise présenter des "graphic material" indéfinis.
+Ces exemples représentent quelques illustrations parmi tant d’autres.
+Face à ces intrusions parfois à caractère raciste ou sexuel, il urge de mettre en place certaines mesures. Il faudra alors améliorer la confidentialité des meetings sur les plateformes de visioconférence et de leurs liens. Pour ce faire, il faut pour les sociétés offrant ces services de télétravail :
+       - Clarifier les fonctionnalités protégeant les utilisateurs contre ces attaques,
+       - Enlever la fonctionnalité "Login with Facebook" qui envoyeraient des informations stockées sur les équipements à Facebook,
+       - Renforcer les options de confidentialité par défaut pour les utilisateurs scolaires,
+       - Permettre les mots de passe et salles d’attente virtuelles par défaut.
+De même, les utilisateurs doivent prendre certaines mesures personnelles : Il s’agit notamment de : 
+       - séparer les équipements professionnels et données personnelles, 
+       - limiter la diffusion de liens de meetings, d’ajouter un rappel type "ce lien est personnel, ne pas rediffuser" sur l’envoi, 
+       - vérifier les identités des gens qui se connectent pour prévenir les attaques
+       - mettre à jour les anti-virus et logiciels.
+
+-	Utilisation de Logiciels ou Sites webs malveillants
+Les pirates et les cyber-escrocs profitent de la pandémie de la maladie du coronavirus (COVID-19) en envoyant des courriels frauduleux et des messages sur les réseau sociaux de messageries privées (WhatsApp notamment) , les sites Web, les appels téléphoniques, les messages texte et même les télécopies qui tentent de vous inciter à cliquer sur des liens malveillants ou à ouvrir des pièces jointes.
+Ces actions peuvent révéler votre nom d'utilisateur et votre mot de passe, qui peuvent être utilisés pour voler de l'argent ou des informations sensibles.
+Face à ces menaces, il faudra redoubler de vigilance.
+En effet, il faut toujours vérifier l’authenticité des sites suspects et pièces jointes avant de répondre car aucune structure sérieuse ne demandera jamais le nom d'utilisateur ou le mot de passe pour accéder aux informations de sécurité. De même, aucune société ne dira d'envoyer des pièces jointes que vous n'avez pas demandées.
+Vous pouvez vérifier si la communication est légitime en faisant des recherches sur le web.
+
+En sommes, avec la propagation continue du coronavirus, les orientations sécuritaires changent rapidement.  Par ces temps qui courent, il est conseiller d'éviter une exposition publique inutile, par exemple lors de grands rassemblements, dans les transports en commun… et sur le lieu de travail. En conséquence, de nombreuses entreprises dans le monde planifient ou mettent en œuvre activement un modèle d'entreprise impliquant beaucoup plus de travailleurs à distance qu'elles ne l'avaient jamais prévu. Dans la hâte de maintenir les entreprises en activité, il existe un risque important que la sécurité ne soit pas bien pensée.
+Les bonnes pratiques de cybersécurité des entreprises, en toutes circonstances, doivent prendre en compte des règles strictes. Si le bon niveau de sécurité est en place, vous serez en mesure de repousser les menaces de cybersécurité. Trop peu et vous êtes vulnérable. Il faut alors bien appliquer votre sécurité car avec trop de sécurité, appliquée de manière incorrecte, vous vous sentirez étouffé et les pirates commenceront à trouver des solutions de contournement, vous laissant finalement vulnérable.
